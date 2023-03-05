@@ -1,0 +1,502 @@
+2023-03-02 08:04:14,301 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Starting ProyectoApplication using Java 17.0.1 on DESKTOP-S04GEAG with PID 9612 (C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog\target\classes started by a895589 in C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog)
+2023-03-02 08:04:14,307 DEBUG net.atos.rest.proyecto.ProyectoApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-03-02 08:04:14,307 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-03-02 08:04:20,292 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Started ProyectoApplication in 6.394 seconds (JVM running for 7.725)
+2023-03-02 08:05:27,866 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-2] Lista de articulos mostrada
+2023-03-02 08:05:32,865 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-5] Lista de articulos mostrada
+2023-03-02 08:05:35,938 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-7] Lista de blogs mostrada
+2023-03-02 08:05:37,978 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-8] Lista de proyectos mostrada
+2023-03-02 08:06:15,213 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-4] Lista de proyectos mostrada
+2023-03-02 08:06:17,744 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-5] Lista de usuarios mostrada
+2023-03-02 08:06:31,017 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-8] Proyecto creado
+2023-03-02 08:06:31,054 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-9] Lista de proyectos mostrada
+2023-03-02 08:06:53,355 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-2] Proyecto encontrado
+2023-03-02 08:09:13,040 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-4] Proyecto encontrado
+2023-03-02 08:09:13,040 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-5] Lista de usuarios mostrada
+2023-03-02 08:21:18,553 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-8] Lista de proyectos mostrada
+2023-03-02 08:21:59,198 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-10] Proyecto encontrado
+2023-03-02 08:21:59,198 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-1] Lista de usuarios mostrada
+2023-03-02 08:22:05,830 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-3] Proyecto modificado
+2023-03-02 08:22:05,849 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-5] Lista de proyectos mostrada
+2023-03-02 08:22:10,288 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-6] Proyecto encontrado
+2023-03-02 08:25:44,752 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Starting ProyectoApplication using Java 17.0.1 on DESKTOP-S04GEAG with PID 9612 (C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog\target\classes started by a895589 in C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog)
+2023-03-02 08:25:44,752 DEBUG net.atos.rest.proyecto.ProyectoApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-03-02 08:25:44,752 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-03-02 08:25:46,209 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Started ProyectoApplication in 1.528 seconds (JVM running for 1293.643)
+2023-03-02 08:25:53,126 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Starting ProyectoApplication using Java 17.0.1 on DESKTOP-S04GEAG with PID 9612 (C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog\target\classes started by a895589 in C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog)
+2023-03-02 08:25:53,126 DEBUG net.atos.rest.proyecto.ProyectoApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-03-02 08:25:53,126 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-03-02 08:25:54,048 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Started ProyectoApplication in 0.954 seconds (JVM running for 1301.482)
+2023-03-02 08:26:10,929 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-2] Lista de usuarios mostrada
+2023-03-02 08:26:10,958 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-3] Lista de proyectos mostrada
+2023-03-02 08:26:13,439 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-5] Proyecto encontrado
+2023-03-02 08:26:13,441 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-6] Lista de usuarios mostrada
+2023-03-02 08:26:17,104 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-8] Proyecto modificado
+2023-03-02 08:26:17,125 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-9] Lista de proyectos mostrada
+2023-03-02 08:26:28,860 ERROR com.zaxxer.hikari.pool.HikariPool [HikariPool-3 connection adder] HikariPool-3 - Error thrown while acquiring connection from data source
+org.h2.jdbc.JdbcSQLNonTransientConnectionException: The database is open in exclusive mode; can not open additional connections [90135-214]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:678)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:477)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.message.DbException.get(DbException.java:188)
+	at org.h2.engine.SessionLocal.checkSuspended(SessionLocal.java:1240)
+	at org.h2.engine.SessionLocal.isOpen(SessionLocal.java:1173)
+	at org.h2.engine.SessionLocal.waitIfExclusiveModeEnabled(SessionLocal.java:1486)
+	at org.h2.command.Command.executeQuery(Command.java:180)
+	at org.h2.jdbc.JdbcConnection.isReadOnly(JdbcConnection.java:538)
+	at com.zaxxer.hikari.pool.PoolBase.setupConnection(PoolBase.java:408)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:369)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:476)
+	at com.zaxxer.hikari.pool.HikariPool.access$100(HikariPool.java:71)
+	at com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator.call(HikariPool.java:726)
+	at com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator.call(HikariPool.java:712)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-03-02 08:28:15,712 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Starting ProyectoApplication using Java 17.0.1 on DESKTOP-S04GEAG with PID 22448 (C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog\target\classes started by a895589 in C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog)
+2023-03-02 08:28:15,713 DEBUG net.atos.rest.proyecto.ProyectoApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-03-02 08:28:15,714 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-03-02 08:28:20,028 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Started ProyectoApplication in 4.718 seconds (JVM running for 5.687)
+2023-03-02 08:30:04,120 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-3] Lista de proyectos mostrada
+2023-03-02 08:30:05,855 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-5] Lista de usuarios mostrada
+2023-03-02 08:30:05,864 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-4] Proyecto encontrado
+2023-03-02 08:30:09,866 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-6] Proyecto modificado
+2023-03-02 08:30:09,898 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-7] Lista de proyectos mostrada
+2023-03-02 08:30:18,673 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-10] Proyecto encontrado
+2023-03-02 08:30:24,618 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-2] Proyecto encontrado
+2023-03-02 08:30:24,621 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-3] Lista de usuarios mostrada
+2023-03-02 08:30:29,405 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-5] Proyecto modificado
+2023-03-02 08:30:29,430 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-4] Lista de proyectos mostrada
+2023-03-02 08:30:33,050 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-8] Proyecto encontrado
+2023-03-02 08:30:38,833 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-9] Proyecto encontrado
+2023-03-02 08:30:38,833 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-1] Lista de usuarios mostrada
+2023-03-02 08:30:45,462 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-3] Lista de articulos mostrada
+2023-03-02 08:47:51,067 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Starting ProyectoApplication using Java 17.0.1 on DESKTOP-S04GEAG with PID 1372 (C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog\target\classes started by a895589 in C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog)
+2023-03-02 08:47:51,070 DEBUG net.atos.rest.proyecto.ProyectoApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-03-02 08:47:51,071 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-03-02 08:47:58,211 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Started ProyectoApplication in 7.79 seconds (JVM running for 9.971)
+2023-03-02 08:53:22,327 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-6] Lista de proyectos mostrada
+2023-03-02 08:53:24,591 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-8] Lista de proyectos mostrada
+2023-03-02 08:53:28,639 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-9] Lista de blogs mostrada
+2023-03-02 08:53:30,716 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-10] Lista de blogs mostrada
+2023-03-02 08:54:22,615 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-3] Lista de blogs mostrada
+2023-03-02 08:54:23,435 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-4] Lista de articulos mostrada
+2023-03-02 08:54:25,279 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-5] Lista de articulos mostrada
+2023-03-02 08:54:26,625 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-6] Lista de proyectos mostrada
+2023-03-02 09:20:32,574 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-2] Lista de articulos mostrada
+2023-03-02 09:20:35,430 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-3] Lista de blogs mostrada
+2023-03-02 09:20:37,003 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-4] Lista de proyectos mostrada
+2023-03-02 09:20:39,148 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-5] Lista de usuarios mostrada
+2023-03-02 09:20:46,631 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-7] Proyecto creado
+2023-03-02 09:20:46,672 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-8] Lista de proyectos mostrada
+2023-03-02 09:20:50,028 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-10] Lista de usuarios mostrada
+2023-03-02 09:20:50,037 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-9] Proyecto encontrado
+2023-03-02 09:20:54,106 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-2] Proyecto modificado
+2023-03-02 09:20:54,124 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-3] Lista de proyectos mostrada
+2023-03-02 09:21:03,131 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-5] Proyecto encontrado
+2023-03-02 09:21:22,492 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-7] Lista de proyectos mostrada
+2023-03-02 09:21:26,074 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-8] Proyecto encontrado
+2023-03-02 09:21:26,076 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-10] Lista de usuarios mostrada
+2023-03-02 09:21:28,310 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-9] Proyecto modificado
+2023-03-02 09:21:28,325 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-1] Lista de proyectos mostrada
+2023-03-02 09:21:31,783 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-3] Proyecto eliminado
+2023-03-02 09:21:34,549 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-4] Lista de blogs mostrada
+2023-03-02 09:21:35,616 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-5] Lista de articulos mostrada
+2023-03-02 09:23:22,429 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-2] Lista de proyectos mostrada
+2023-03-02 09:25:28,105 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-4] Lista de proyectos mostrada
+2023-03-02 09:25:43,849 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-6] Lista de proyectos mostrada
+2023-03-02 09:27:59,982 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-10] Lista de proyectos mostrada
+2023-03-02 09:28:09,894 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-9] Lista de proyectos mostrada
+2023-03-02 09:28:54,870 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-3] Lista de proyectos mostrada
+2023-03-02 09:30:17,230 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-5] Lista de proyectos mostrada
+2023-03-02 09:30:42,780 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-7] Proyecto encontrado
+2023-03-02 09:30:42,780 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-10] Lista de usuarios mostrada
+2023-03-02 09:35:39,637 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-2] Lista de usuarios mostrada
+2023-03-02 09:35:39,638 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-1] Proyecto encontrado
+2023-03-02 09:36:10,120 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-5] Proyecto encontrado
+2023-03-02 09:36:10,120 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-6] Lista de usuarios mostrada
+2023-03-02 09:36:27,217 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-8] Lista de proyectos mostrada
+2023-03-02 09:37:58,370 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-1] Lista de proyectos mostrada
+2023-03-02 09:38:02,112 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-4] Lista de proyectos mostrada
+2023-03-02 09:38:07,275 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-5] Lista de usuarios mostrada
+2023-03-02 09:38:07,275 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-6] Proyecto encontrado
+2023-03-02 09:38:11,011 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-10] Proyecto modificado
+2023-03-02 09:38:11,028 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-9] Lista de proyectos mostrada
+2023-03-02 09:38:18,843 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-1] Proyecto encontrado
+2023-03-02 09:38:18,845 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-4] Lista de usuarios mostrada
+2023-03-02 09:38:21,054 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-5] Proyecto modificado
+2023-03-02 09:38:21,072 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-6] Lista de proyectos mostrada
+2023-03-02 09:38:44,232 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-9] Lista de proyectos mostrada
+2023-03-02 09:38:49,852 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-8] Lista de proyectos mostrada
+2023-03-02 09:41:10,022 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Starting ProyectoApplication using Java 17.0.1 on DESKTOP-S04GEAG with PID 17852 (C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog\target\classes started by a895589 in C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog)
+2023-03-02 09:41:10,025 DEBUG net.atos.rest.proyecto.ProyectoApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-03-02 09:41:10,025 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-03-02 09:41:17,204 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Started ProyectoApplication in 7.655 seconds (JVM running for 8.628)
+2023-03-02 09:41:41,816 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-1] Lista de proyectos mostrada
+2023-03-02 09:42:45,313 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-5] Lista de proyectos mostrada
+2023-03-02 10:26:34,995 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-8] Lista de proyectos mostrada
+2023-03-02 10:27:00,233 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-10] Lista de proyectos mostrada
+2023-03-02 10:27:52,739 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-3] Lista de articulos mostrada
+2023-03-02 10:33:36,700 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-9] Lista de articulos mostrada
+2023-03-02 10:33:40,341 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-1] Lista de blogs mostrada
+2023-03-02 10:33:44,999 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-3] Lista de usuarios mostrada
+2023-03-02 10:33:45,001 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-2] Blog encontrado
+2023-03-02 10:33:47,503 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-4] Lista de articulos mostrada
+2023-03-02 10:33:50,333 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-7] Lista de blogs mostrada
+2023-03-02 10:34:19,288 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Starting ProyectoApplication using Java 17.0.1 on DESKTOP-S04GEAG with PID 17852 (C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog\target\classes started by a895589 in C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog)
+2023-03-02 10:34:19,288 DEBUG net.atos.rest.proyecto.ProyectoApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-03-02 10:34:19,288 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-03-02 10:34:19,968 ERROR org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Failed to initialize JPA EntityManagerFactory: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Could not determine type for: java.util.List, at table: blogs, for columns: [org.hibernate.mapping.Column(articles)]
+2023-03-02 10:34:20,351 ERROR org.springframework.boot.SpringApplication [restartedMain] Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is javax.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Could not determine type for: java.util.List, at table: blogs, for columns: [org.hibernate.mapping.Column(articles)]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1804)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:908)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:731)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1292)
+	at net.atos.rest.proyecto.ProyectoApplication.main(ProyectoApplication.java:12)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: javax.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Could not determine type for: java.util.List, at table: blogs, for columns: [org.hibernate.mapping.Column(articles)]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:421)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:341)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800)
+	... 21 common frames omitted
+Caused by: org.hibernate.MappingException: Could not determine type for: java.util.List, at table: blogs, for columns: [org.hibernate.mapping.Column(articles)]
+	at org.hibernate.mapping.SimpleValue.getType(SimpleValue.java:515)
+	at org.hibernate.mapping.SimpleValue.isValid(SimpleValue.java:482)
+	at org.hibernate.mapping.Property.isValid(Property.java:231)
+	at org.hibernate.mapping.PersistentClass.validate(PersistentClass.java:627)
+	at org.hibernate.mapping.RootClass.validate(RootClass.java:267)
+	at org.hibernate.boot.internal.MetadataImpl.validate(MetadataImpl.java:359)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:314)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:471)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1498)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409)
+	... 25 common frames omitted
+2023-03-02 10:34:54,684 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Starting ProyectoApplication using Java 17.0.1 on DESKTOP-S04GEAG with PID 13100 (C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog\target\classes started by a895589 in C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog)
+2023-03-02 10:34:54,686 DEBUG net.atos.rest.proyecto.ProyectoApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-03-02 10:34:54,686 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-03-02 10:34:57,522 ERROR org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Failed to initialize JPA EntityManagerFactory: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Could not determine type for: java.util.List, at table: blogs, for columns: [org.hibernate.mapping.Column(articles)]
+2023-03-02 10:34:57,805 ERROR org.springframework.boot.SpringApplication [restartedMain] Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is javax.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Could not determine type for: java.util.List, at table: blogs, for columns: [org.hibernate.mapping.Column(articles)]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1804)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:908)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:731)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1292)
+	at net.atos.rest.proyecto.ProyectoApplication.main(ProyectoApplication.java:12)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: javax.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Could not determine type for: java.util.List, at table: blogs, for columns: [org.hibernate.mapping.Column(articles)]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:421)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:341)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800)
+	... 21 common frames omitted
+Caused by: org.hibernate.MappingException: Could not determine type for: java.util.List, at table: blogs, for columns: [org.hibernate.mapping.Column(articles)]
+	at org.hibernate.mapping.SimpleValue.getType(SimpleValue.java:515)
+	at org.hibernate.mapping.SimpleValue.isValid(SimpleValue.java:482)
+	at org.hibernate.mapping.Property.isValid(Property.java:231)
+	at org.hibernate.mapping.PersistentClass.validate(PersistentClass.java:627)
+	at org.hibernate.mapping.RootClass.validate(RootClass.java:267)
+	at org.hibernate.boot.internal.MetadataImpl.validate(MetadataImpl.java:359)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:314)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:471)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1498)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409)
+	... 25 common frames omitted
+2023-03-02 10:35:09,970 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Starting ProyectoApplication using Java 17.0.1 on DESKTOP-S04GEAG with PID 21424 (C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog\target\classes started by a895589 in C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog)
+2023-03-02 10:35:09,972 DEBUG net.atos.rest.proyecto.ProyectoApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-03-02 10:35:09,973 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-03-02 10:35:13,922 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Started ProyectoApplication in 4.291 seconds (JVM running for 5.136)
+2023-03-02 10:39:40,207 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Starting ProyectoApplication using Java 17.0.1 on DESKTOP-S04GEAG with PID 21424 (C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog\target\classes started by a895589 in C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog)
+2023-03-02 10:39:40,207 DEBUG net.atos.rest.proyecto.ProyectoApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-03-02 10:39:40,208 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-03-02 10:39:41,206 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Started ProyectoApplication in 1.038 seconds (JVM running for 272.42)
+2023-03-02 10:39:44,997 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Starting ProyectoApplication using Java 17.0.1 on DESKTOP-S04GEAG with PID 21424 (C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog\target\classes started by a895589 in C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog)
+2023-03-02 10:39:44,997 DEBUG net.atos.rest.proyecto.ProyectoApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-03-02 10:39:44,997 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-03-02 10:39:45,827 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Started ProyectoApplication in 0.859 seconds (JVM running for 277.041)
+2023-03-02 10:40:43,358 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Starting ProyectoApplication using Java 17.0.1 on DESKTOP-S04GEAG with PID 21424 (C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog\target\classes started by a895589 in C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog)
+2023-03-02 10:40:43,358 DEBUG net.atos.rest.proyecto.ProyectoApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-03-02 10:40:43,359 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-03-02 10:40:44,167 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Started ProyectoApplication in 0.84 seconds (JVM running for 335.381)
+2023-03-02 10:41:07,719 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Starting ProyectoApplication using Java 17.0.1 on DESKTOP-S04GEAG with PID 21424 (C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog\target\classes started by a895589 in C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog)
+2023-03-02 10:41:07,719 DEBUG net.atos.rest.proyecto.ProyectoApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-03-02 10:41:07,719 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-03-02 10:41:08,486 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Started ProyectoApplication in 0.794 seconds (JVM running for 359.7)
+2023-03-02 10:41:18,466 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Starting ProyectoApplication using Java 17.0.1 on DESKTOP-S04GEAG with PID 21424 (C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog\target\classes started by a895589 in C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog)
+2023-03-02 10:41:18,466 DEBUG net.atos.rest.proyecto.ProyectoApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-03-02 10:41:18,466 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-03-02 10:41:19,217 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Started ProyectoApplication in 0.781 seconds (JVM running for 370.431)
+2023-03-02 10:41:38,596 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Starting ProyectoApplication using Java 17.0.1 on DESKTOP-S04GEAG with PID 21424 (C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog\target\classes started by a895589 in C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog)
+2023-03-02 10:41:38,596 DEBUG net.atos.rest.proyecto.ProyectoApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-03-02 10:41:38,596 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-03-02 10:41:39,364 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Started ProyectoApplication in 0.795 seconds (JVM running for 390.578)
+2023-03-02 10:41:51,467 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Starting ProyectoApplication using Java 17.0.1 on DESKTOP-S04GEAG with PID 21424 (C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog\target\classes started by a895589 in C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog)
+2023-03-02 10:41:51,467 DEBUG net.atos.rest.proyecto.ProyectoApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-03-02 10:41:51,467 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-03-02 10:41:52,243 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Started ProyectoApplication in 0.805 seconds (JVM running for 403.457)
+2023-03-02 10:42:47,772 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Starting ProyectoApplication using Java 17.0.1 on DESKTOP-S04GEAG with PID 21424 (C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog\target\classes started by a895589 in C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog)
+2023-03-02 10:42:47,773 DEBUG net.atos.rest.proyecto.ProyectoApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-03-02 10:42:47,773 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-03-02 10:42:48,647 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Started ProyectoApplication in 0.899 seconds (JVM running for 459.86)
+2023-03-02 10:43:03,820 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Starting ProyectoApplication using Java 17.0.1 on DESKTOP-S04GEAG with PID 21424 (C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog\target\classes started by a895589 in C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog)
+2023-03-02 10:43:03,820 DEBUG net.atos.rest.proyecto.ProyectoApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-03-02 10:43:03,820 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-03-02 10:43:04,562 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Started ProyectoApplication in 0.767 seconds (JVM running for 475.776)
+2023-03-02 10:44:32,019 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Starting ProyectoApplication using Java 17.0.1 on DESKTOP-S04GEAG with PID 21424 (C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog\target\classes started by a895589 in C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog)
+2023-03-02 10:44:32,020 DEBUG net.atos.rest.proyecto.ProyectoApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-03-02 10:44:32,020 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-03-02 10:44:32,753 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Started ProyectoApplication in 0.761 seconds (JVM running for 563.967)
+2023-03-02 10:44:36,323 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-2] Articulo creado
+2023-03-02 10:46:06,986 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-5] Lista de articulos mostrada
+2023-03-02 10:46:08,473 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-6] Lista de blogs mostrada
+2023-03-02 10:46:32,875 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-9] Lista de proyectos mostrada
+2023-03-02 10:46:33,854 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-10] Lista de blogs mostrada
+2023-03-02 10:46:34,545 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-1] Lista de articulos mostrada
+2023-03-02 10:46:35,937 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-2] Articulo encontrado
+2023-03-02 10:46:35,951 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-3] Lista de blogs mostrada
+2023-03-02 10:46:40,508 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-5] Articulo modificado
+2023-03-02 10:46:40,524 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-6] Lista de articulos mostrada
+2023-03-02 10:47:14,576 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Starting ProyectoApplication using Java 17.0.1 on DESKTOP-S04GEAG with PID 668 (C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog\target\classes started by a895589 in C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog)
+2023-03-02 10:47:14,578 DEBUG net.atos.rest.proyecto.ProyectoApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-03-02 10:47:14,579 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-03-02 10:47:18,726 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Started ProyectoApplication in 4.46 seconds (JVM running for 5.348)
+2023-03-02 10:48:02,347 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-2] Lista de blogs mostrada
+2023-03-02 10:48:02,883 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-3] Lista de articulos mostrada
+2023-03-02 10:48:05,539 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-4] Articulo encontrado
+2023-03-02 10:48:05,542 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-5] Lista de blogs mostrada
+2023-03-02 10:48:23,013 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-9] Lista de articulos mostrada
+2023-03-02 10:48:24,892 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-10] Articulo encontrado
+2023-03-02 10:48:24,905 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-1] Lista de blogs mostrada
+2023-03-02 10:48:27,955 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-2] Articulo modificado
+2023-03-02 10:48:27,976 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-3] Lista de articulos mostrada
+2023-03-02 10:48:33,951 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-6] Lista de blogs mostrada
+2023-03-02 10:48:46,721 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-9] Lista de blogs mostrada
+2023-03-02 10:49:30,620 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-2] Articulo creado
+2023-03-02 10:50:58,002 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-6] Usuario creado
+2023-03-02 10:51:01,557 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-10] Usuario encontrado
+2023-03-02 10:51:04,235 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-2] Usuario modificado
+2023-03-02 10:51:08,826 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-6] Usuario eliminado
+2023-03-02 10:51:10,696 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-7] Lista de articulos mostrada
+2023-03-02 10:51:16,678 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-10] Articulo eliminado
+2023-03-02 10:51:19,186 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-1] Lista de blogs mostrada
+2023-03-02 10:51:20,959 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-3] Lista de usuarios mostrada
+2023-03-02 10:51:24,758 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-4] Blog creado
+2023-03-02 10:51:24,781 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-6] Lista de blogs mostrada
+2023-03-02 10:51:28,934 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-7] Blog encontrado
+2023-03-02 10:51:28,936 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-8] Lista de usuarios mostrada
+2023-03-02 10:51:34,183 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-2] Blog modificado
+2023-03-02 10:51:34,210 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-3] Lista de blogs mostrada
+2023-03-02 10:51:45,052 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-6] Blog eliminado
+2023-03-02 10:52:08,873 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-8] Lista de proyectos mostrada
+2023-03-02 10:52:19,316 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-9] Lista de usuarios mostrada
+2023-03-02 10:52:25,927 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-3] Proyecto creado
+2023-03-02 10:52:25,943 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-5] Lista de proyectos mostrada
+2023-03-02 10:52:29,120 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-4] Proyecto encontrado
+2023-03-02 10:52:29,122 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-6] Lista de usuarios mostrada
+2023-03-02 10:52:31,182 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-9] Proyecto modificado
+2023-03-02 10:52:31,197 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-1] Lista de proyectos mostrada
+2023-03-02 10:52:35,079 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-2] Proyecto encontrado
+2023-03-02 10:52:35,079 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-3] Lista de usuarios mostrada
+2023-03-02 10:52:37,142 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-5] Proyecto modificado
+2023-03-02 10:52:37,158 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-6] Lista de proyectos mostrada
+2023-03-02 10:52:49,155 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-10] Proyecto eliminado
+2023-03-02 10:54:05,150 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Starting ProyectoApplication using Java 17.0.1 on DESKTOP-S04GEAG with PID 668 (C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog\target\classes started by a895589 in C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog)
+2023-03-02 10:54:05,150 DEBUG net.atos.rest.proyecto.ProyectoApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-03-02 10:54:05,150 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-03-02 10:54:06,225 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Started ProyectoApplication in 1.126 seconds (JVM running for 412.848)
+2023-03-02 10:55:54,357 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Starting ProyectoApplication using Java 17.0.1 on DESKTOP-S04GEAG with PID 668 (C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog\target\classes started by a895589 in C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog)
+2023-03-02 10:55:54,358 DEBUG net.atos.rest.proyecto.ProyectoApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-03-02 10:55:54,358 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-03-02 10:55:55,173 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Started ProyectoApplication in 0.846 seconds (JVM running for 521.795)
+2023-03-02 10:56:10,586 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-2] Lista de articulos mostrada
+2023-03-02 10:56:12,514 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-4] Articulo encontrado
+2023-03-02 10:56:12,526 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-5] Lista de blogs mostrada
+2023-03-02 10:56:45,575 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Starting ProyectoApplication using Java 17.0.1 on DESKTOP-S04GEAG with PID 668 (C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog\target\classes started by a895589 in C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog)
+2023-03-02 10:56:45,575 DEBUG net.atos.rest.proyecto.ProyectoApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-03-02 10:56:45,575 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-03-02 10:56:46,475 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Started ProyectoApplication in 0.931 seconds (JVM running for 573.098)
+2023-03-02 11:01:06,821 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Starting ProyectoApplication using Java 17.0.1 on DESKTOP-S04GEAG with PID 16672 (C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog\target\classes started by a895589 in C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog)
+2023-03-02 11:01:06,822 DEBUG net.atos.rest.proyecto.ProyectoApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-03-02 11:01:06,823 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-03-02 11:01:11,005 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Started ProyectoApplication in 4.504 seconds (JVM running for 5.43)
+2023-03-02 11:01:30,785 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-2] Articulo encontrado
+2023-03-02 11:01:30,904 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-1] Lista de blogs mostrada
+2023-03-02 11:03:58,661 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-9] Lista de articulos mostrada
+2023-03-02 11:03:59,437 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-10] Lista de blogs mostrada
+2023-03-02 11:04:01,556 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-2] Lista de proyectos mostrada
+2023-03-02 11:04:36,097 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-4] Proyecto encontrado
+2023-03-02 11:04:36,097 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-3] Lista de usuarios mostrada
+2023-03-02 11:04:39,050 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-6] Proyecto modificado
+2023-03-02 11:04:39,082 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-7] Lista de proyectos mostrada
+2023-03-02 11:15:13,632 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-2] Lista de articulos mostrada
+2023-03-02 11:15:14,730 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-1] Lista de proyectos mostrada
+2023-03-02 11:24:24,840 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-6] Lista de blogs mostrada
+2023-03-02 11:24:27,465 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-9] Lista de articulos mostrada
+2023-03-02 11:24:29,013 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-8] Articulo encontrado
+2023-03-02 11:24:29,026 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-10] Lista de blogs mostrada
+2023-03-02 11:24:35,515 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-3] Lista de blogs mostrada
+2023-03-02 11:24:36,024 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-4] Lista de articulos mostrada
+2023-03-02 11:24:38,740 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-5] Articulo encontrado
+2023-03-02 11:24:38,750 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-6] Lista de blogs mostrada
+2023-03-02 11:24:40,388 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-7] Articulo modificado
+2023-03-02 11:24:40,405 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-9] Lista de articulos mostrada
+2023-03-02 11:24:43,548 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-8] Lista de blogs mostrada
+2023-03-02 11:24:57,468 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-3] Lista de articulos mostrada
+2023-03-02 11:26:22,216 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Starting ProyectoApplication using Java 17.0.1 on DESKTOP-S04GEAG with PID 16672 (C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog\target\classes started by a895589 in C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog)
+2023-03-02 11:26:22,217 DEBUG net.atos.rest.proyecto.ProyectoApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-03-02 11:26:22,217 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-03-02 11:26:24,010 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Started ProyectoApplication in 1.891 seconds (JVM running for 1518.436)
+2023-03-02 11:28:42,130 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Starting ProyectoApplication using Java 17.0.1 on DESKTOP-S04GEAG with PID 16672 (C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog\target\classes started by a895589 in C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog)
+2023-03-02 11:28:42,130 DEBUG net.atos.rest.proyecto.ProyectoApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-03-02 11:28:42,131 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-03-02 11:28:43,187 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Started ProyectoApplication in 1.093 seconds (JVM running for 1657.612)
+2023-03-02 11:30:34,366 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Starting ProyectoApplication using Java 17.0.1 on DESKTOP-S04GEAG with PID 16672 (C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog\target\classes started by a895589 in C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog)
+2023-03-02 11:30:34,366 DEBUG net.atos.rest.proyecto.ProyectoApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-03-02 11:30:34,366 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-03-02 11:30:35,511 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Started ProyectoApplication in 1.18 seconds (JVM running for 1769.936)
+2023-03-02 11:30:40,323 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Starting ProyectoApplication using Java 17.0.1 on DESKTOP-S04GEAG with PID 16672 (C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog\target\classes started by a895589 in C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog)
+2023-03-02 11:30:40,323 DEBUG net.atos.rest.proyecto.ProyectoApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-03-02 11:30:40,323 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-03-02 11:30:41,199 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Started ProyectoApplication in 0.914 seconds (JVM running for 1775.624)
+2023-03-02 11:30:51,121 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Starting ProyectoApplication using Java 17.0.1 on DESKTOP-S04GEAG with PID 16672 (C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog\target\classes started by a895589 in C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog)
+2023-03-02 11:30:51,121 DEBUG net.atos.rest.proyecto.ProyectoApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-03-02 11:30:51,121 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-03-02 11:30:52,015 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Started ProyectoApplication in 0.923 seconds (JVM running for 1786.44)
+2023-03-02 11:31:00,835 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-1] Lista de articulos mostrada
+2023-03-02 11:31:03,854 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-3] Articulo encontrado
+2023-03-02 11:31:03,865 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-4] Lista de blogs mostrada
+2023-03-02 11:31:11,354 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-7] Lista de blogs mostrada
+2023-03-02 11:31:13,107 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-8] Lista de articulos mostrada
+2023-03-02 11:31:13,990 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-9] Lista de blogs mostrada
+2023-03-02 11:31:26,568 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-2] Lista de articulos mostrada
+2023-03-02 11:31:47,950 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Starting ProyectoApplication using Java 17.0.1 on DESKTOP-S04GEAG with PID 16672 (C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog\target\classes started by a895589 in C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog)
+2023-03-02 11:31:47,950 DEBUG net.atos.rest.proyecto.ProyectoApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-03-02 11:31:47,950 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-03-02 11:31:49,003 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Started ProyectoApplication in 1.087 seconds (JVM running for 1843.429)
+2023-03-02 11:32:00,923 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Starting ProyectoApplication using Java 17.0.1 on DESKTOP-S04GEAG with PID 16672 (C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog\target\classes started by a895589 in C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog)
+2023-03-02 11:32:00,923 DEBUG net.atos.rest.proyecto.ProyectoApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-03-02 11:32:00,924 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-03-02 11:32:01,785 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Started ProyectoApplication in 0.892 seconds (JVM running for 1856.211)
+2023-03-02 11:32:22,098 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Starting ProyectoApplication using Java 17.0.1 on DESKTOP-S04GEAG with PID 16672 (C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog\target\classes started by a895589 in C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog)
+2023-03-02 11:32:22,098 DEBUG net.atos.rest.proyecto.ProyectoApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-03-02 11:32:22,098 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-03-02 11:32:22,929 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Started ProyectoApplication in 0.859 seconds (JVM running for 1877.354)
+2023-03-02 11:32:29,881 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Starting ProyectoApplication using Java 17.0.1 on DESKTOP-S04GEAG with PID 16672 (C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog\target\classes started by a895589 in C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog)
+2023-03-02 11:32:29,881 DEBUG net.atos.rest.proyecto.ProyectoApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-03-02 11:32:29,882 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-03-02 11:32:39,249 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Starting ProyectoApplication using Java 17.0.1 on DESKTOP-S04GEAG with PID 8468 (C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog\target\classes started by a895589 in C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog)
+2023-03-02 11:32:39,251 DEBUG net.atos.rest.proyecto.ProyectoApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-03-02 11:32:39,252 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-03-02 11:32:44,665 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Started ProyectoApplication in 5.82 seconds (JVM running for 7.163)
+2023-03-02 11:33:38,274 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-10] Lista de articulos mostrada
+2023-03-02 11:33:45,251 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-1] Articulo encontrado
+2023-03-02 11:33:45,284 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-2] Lista de blogs mostrada
+2023-03-02 11:33:51,642 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-6] Articulo modificado
+2023-03-02 11:33:51,729 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-7] Lista de articulos mostrada
+2023-03-02 11:34:03,675 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-9] Lista de blogs mostrada
+2023-03-02 11:34:08,615 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-1] Blog encontrado
+2023-03-02 11:34:08,618 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-2] Lista de usuarios mostrada
+2023-03-02 11:34:13,987 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-6] Blog modificado
+2023-03-02 11:34:14,035 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-7] Lista de blogs mostrada
+2023-03-02 11:34:25,312 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-9] Lista de proyectos mostrada
+2023-03-02 11:34:29,265 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-1] Proyecto encontrado
+2023-03-02 11:34:29,265 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-2] Lista de usuarios mostrada
+2023-03-02 11:34:35,379 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-6] Proyecto modificado
+2023-03-02 11:34:35,407 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-7] Lista de proyectos mostrada
+2023-03-02 11:35:17,034 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-9] Lista de proyectos mostrada
+2023-03-02 11:35:18,871 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-10] Lista de usuarios mostrada
+2023-03-02 11:35:29,506 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-1] Proyecto creado
+2023-03-02 11:35:29,520 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-3] Lista de proyectos mostrada
+2023-03-02 11:35:37,491 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-5] Proyecto eliminado
+2023-03-02 11:35:39,982 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-6] Lista de usuarios mostrada
+2023-03-02 11:35:44,379 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-7] Proyecto creado
+2023-03-02 11:35:44,400 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-8] Lista de proyectos mostrada
+2023-03-02 11:35:53,490 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-10] Proyecto eliminado
+2023-03-02 11:35:59,806 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-2] Lista de blogs mostrada
+2023-03-02 11:58:43,364 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-5] Usuario creado
+2023-03-02 11:58:48,551 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-9] Usuario eliminado
+2023-03-02 11:58:50,982 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-10] Lista de blogs mostrada
+2023-03-02 11:59:00,644 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-2] Lista de articulos mostrada
+2023-03-02 11:59:15,682 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-1] Lista de proyectos mostrada
+2023-03-02 11:59:16,663 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-3] Lista de articulos mostrada
+2023-03-02 11:59:51,714 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-5] Lista de articulos mostrada
+2023-03-02 12:21:48,772 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-10] Lista de blogs mostrada
+2023-03-02 12:21:50,340 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-2] Lista de articulos mostrada
+2023-03-02 12:41:05,821 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-2] Lista de proyectos mostrada
+2023-03-02 13:06:12,073 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Starting ProyectoApplication using Java 17.0.1 on DESKTOP-S04GEAG with PID 18520 (C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog\target\classes started by a895589 in C:\Users\a895589\Downloads\sts-4.13.1.RELEASE\workspace\blog)
+2023-03-02 13:06:12,075 DEBUG net.atos.rest.proyecto.ProyectoApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-03-02 13:06:12,076 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-03-02 13:06:18,650 INFO net.atos.rest.proyecto.ProyectoApplication [restartedMain] Started ProyectoApplication in 7.051 seconds (JVM running for 8.528)
+2023-03-02 13:06:26,422 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-1] Lista de proyectos mostrada
+2023-03-02 13:06:43,685 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-3] Lista de articulos mostrada
+2023-03-02 13:06:44,295 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-6] Lista de blogs mostrada
+2023-03-02 13:06:44,824 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-4] Lista de proyectos mostrada
+2023-03-02 13:06:53,803 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-8] Usuario creado
+2023-03-02 13:06:57,637 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-5] Usuario encontrado
+2023-03-02 13:07:01,323 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-4] Usuario modificado
+2023-03-02 13:07:05,482 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-8] Usuario eliminado
+2023-03-02 13:07:07,420 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-1] Lista de articulos mostrada
+2023-03-02 13:07:10,083 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-2] Articulo encontrado
+2023-03-02 13:07:10,102 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-5] Lista de blogs mostrada
+2023-03-02 13:07:13,546 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-9] Articulo modificado
+2023-03-02 13:07:13,570 INFO net.atos.rest.proyecto.controller.ArticleController [http-nio-8080-exec-7] Lista de articulos mostrada
+2023-03-02 13:07:23,281 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-8] Lista de blogs mostrada
+2023-03-02 13:07:29,891 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-1] Lista de usuarios mostrada
+2023-03-02 13:07:34,557 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-3] Blog creado
+2023-03-02 13:07:34,577 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-6] Lista de blogs mostrada
+2023-03-02 13:07:38,395 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-7] Lista de usuarios mostrada
+2023-03-02 13:07:38,396 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-9] Blog encontrado
+2023-03-02 13:07:41,145 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-8] Blog modificado
+2023-03-02 13:07:41,220 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-1] Lista de blogs mostrada
+2023-03-02 13:07:45,802 INFO net.atos.rest.proyecto.controller.BlogController [http-nio-8080-exec-6] Blog eliminado
+2023-03-02 13:07:48,866 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-4] Lista de proyectos mostrada
+2023-03-02 13:07:50,552 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-9] Lista de usuarios mostrada
+2023-03-02 13:07:59,162 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-8] Proyecto creado
+2023-03-02 13:07:59,220 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-1] Lista de proyectos mostrada
+2023-03-02 13:08:01,620 INFO net.atos.rest.proyecto.controller.UserController [http-nio-8080-exec-5] Lista de usuarios mostrada
+2023-03-02 13:08:01,621 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-2] Proyecto encontrado
+2023-03-02 13:08:04,275 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-6] Proyecto modificado
+2023-03-02 13:08:04,313 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-4] Lista de proyectos mostrada
+2023-03-02 13:08:09,124 INFO net.atos.rest.proyecto.controller.ProjectController [http-nio-8080-exec-8] Proyecto eliminado
