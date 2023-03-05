@@ -1,0 +1,55 @@
+<div class="card border-primary mb-3">
+    <div class="card-header">Projects</div>
+    <div class="card-body text-primary">
+      <h5 class="card-title">Listado de proyectos</h5>
+      
+      <div class="my-2 text-left">
+        <button class="btn btn-rounded btn-primary" type="button" [routerLink]="['/projects/form']">Crear proyecto</button>
+      </div>
+
+      <div *ngIf="projects?.length==0" class="alert alert-info">
+        No hay registros en la base de datos
+      </div>
+
+      <table class="table table-bordered table-striped" *ngIf="projects?.length">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Description</th>
+                <th>Language</th>
+                <th>Open</th>
+                <th>Nº users</th>
+                <th>
+                  Editar
+                </th>
+                <th *ngIf="role!='USER'">
+                  Eliminar
+                </th>
+            </tr>
+        </thead>
+       <tbody>
+            <tr *ngFor="let project of projects">
+                <td>{{project.id}}</td>
+                <td>{{project.description | uppercase}}</td>
+                <td>{{project.language }}</td>
+                <td *ngIf="project.open">
+                  <span>&#10004;</span>
+                </td>
+                <td *ngIf="!project.open">
+                  <span style="color:#8a1e00;font-size:17pt">&#x2718;</span>
+                </td>
+                <td>{{project.users.length}}</td>
+                <td>
+                  <button type="button" name="editar" [routerLink]="['/projects/form', project.id]" 
+                  class="btn btn-primary btn-sm">Editar</button>
+                </td>
+
+                <td *ngIf="role!='USER'">
+                  <button type="button" name="eliminar" (click)="delete(project)" 
+                  class="btn btn-danger btn-sm">Eliminar</button>
+                </td>
+            </tr>
+       </tbody>
+      </table>
+    </div>
+  </div>

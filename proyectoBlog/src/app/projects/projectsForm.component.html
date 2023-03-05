@@ -1,0 +1,68 @@
+<ul class="alert alert-danger" *ngIf="errores?.length">
+    <li *ngFor="let err of errores">
+        {{ err }}
+    </li>
+</ul>
+<div class="card bg-dark text-white">
+    <div class="card-header">{{ titulo }}</div>
+    <div class="card-body">
+        <form #projectForm="ngForm">
+            <div class="form-group row">
+                <label for="description" class="col-form-label col-sm-2">Description</label>
+                <div class="col-sm-6">
+                    <input type="text" class="form-control" [(ngModel)]="project.description" name="description" #description="ngModel" required minlength='3'>
+                    <div class="alert alert-danger" *ngIf="description.invalid && (description.dirty || description.touched)">
+                        <div *ngIf="description.errors?.['required']">
+                            Description es requerido
+                        </div>
+                        <div *ngIf="description.errors?.['minlength']">
+                            Description debe tener minimo 3 caracteres
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <label for="language" class="col-form-label col-sm-2">Language</label>
+                <div class="col-sm-6">
+                    <input type="text" class="form-control" [(ngModel)]="project.language" name="language" #language="ngModel" required minlength='3'>
+                    <div class="alert alert-danger" *ngIf="language.invalid && (language.dirty || language.touched)">
+                        <div *ngIf="language.errors?.['required']">
+                            Language es requerido
+                        </div>
+                        <div *ngIf="language.errors?.['minlength']">
+                            Language debe tener minimo 3 caracteres
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <label for="user_id" class="col-form-label col-sm-2">Users</label>
+                <div class="col-sm-6">
+                    <select class="form-control" [(ngModel)]="project.users" name="user" multiple>
+                        <option [ngValue]="user" *ngFor="let user of users">{{user.nombre}}</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <label for="open" class="col-form-label col-sm-2">Open</label>
+                <div class="col-sm-6">
+                    <input type="checkbox" class="radio-options" [(ngModel)]="project.open" name="open" #open="ngModel">
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <div class="col-sm-6">
+                    <button class="btn btn-primary" role="button" (click)="create()" *ngIf="!project.id else elseBlock" [disabled]="!projectForm.form.valid">Crear</button>
+
+                    <ng-template #elseBlock>
+                        <button class="btn btn-primary" role="button" (click)="update()" [disabled]="!projectForm.form.valid">Editar</button> 
+                    </ng-template>
+                </div>
+            </div>
+
+        </form>
+    </div>
+</div>

@@ -1,0 +1,63 @@
+<div class="card 3-m">
+    <h5 class="card-header">Login</h5>
+    <div class="card body">
+        <form [formGroup]="loginForm" (ngSubmit)="onSubmit()">
+            <div class="row justify-content-center">
+                <div class="col-5 mb-3 text-center">
+                    <label class="form-label mt-3 fw-bold">Username</label>
+                    <input
+                        type="text"
+                        formControlName="username"
+                        class="form-control"
+                        [ngClass]="{ 'is-invalid': submitted && fields['username'].errors}"
+                    />
+                    <div
+                        *ngIf="submitted && fields['username'].errors" 
+                        class="invalid-feedback"
+                    >
+                        <div *ngIf="fields['username'].errors['required']">
+                            Username is required
+                        </div>
+                        <div
+                        *ngIf="
+                            !fields['username'].errors['required'] &&
+                            fields['username'].errors['minlength']
+                        " 
+                        >
+                        Username too short (min = 6)
+                        </div>
+                    </div>
+                </div>
+                <div class="col-5 mb-3 text-center">
+                    <label class="form-label mt-3 fw-bold">Password</label>
+                    <input
+                        type="password"
+                        formControlName="password"
+                        class="form-control"
+                        [ngClass]="{ 'is-invalid': submitted && fields['password'].errors}"
+                    />
+                    <div
+                        *ngIf="submitted && fields['password'].errors" 
+                        class="invalid-feedback"
+                    >
+                        <div *ngIf="fields['password'].errors['required']">
+                            Password is required
+                        </div>
+                        <div
+                        *ngIf="
+                            !fields['password'].errors['required'] &&
+                            fields['password'].errors['minlength']
+                        " 
+                        >
+                        Password too short (min = 8)
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div *ngIf="submitted" class="alert alert-danger">User not valid</div>
+            <div class="text-center mb-3">
+                <button class="btn btn-primary me-2 col-3">Login</button>
+            </div>
+        </form>
+    </div>
+</div>

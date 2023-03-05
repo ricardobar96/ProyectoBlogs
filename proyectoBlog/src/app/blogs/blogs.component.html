@@ -1,0 +1,48 @@
+<div class="card border-primary mb-3">
+    <div class="card-header">Blogs</div>
+    <div class="card-body text-primary">
+      <h5 class="card-title">Listado de blogs</h5>
+      
+      <div class="my-2 text-left">
+        <button class="btn btn-rounded btn-primary" type="button" [routerLink]="['/blogs/form']">Crear blog</button>
+      </div>
+
+      <div *ngIf="blogs?.length==0" class="alert alert-info">
+        No hay registros en la base de datos
+      </div>
+
+      <table class="table table-bordered table-striped" *ngIf="blogs?.length">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Title</th>
+                <th>Date</th>
+                <th>User</th>
+                <th>
+                  Editar
+                </th>
+                <th *ngIf="role!='USER'">
+                  Eliminar
+                </th>
+            </tr>
+        </thead>
+       <tbody>
+            <tr *ngFor="let blog of blogs">
+                <td>{{blog.id}}</td>
+                <td>{{blog.title | uppercase}}</td>
+                <td>{{blog.date }}</td>
+                <td>{{blog.user.nombre }}</td>
+                <td>
+                  <button type="button" name="editar" [routerLink]="['/blogs/form', blog.id]" 
+                  class="btn btn-primary btn-sm">Editar</button>
+                </td>
+
+                <td *ngIf="role!='USER'">
+                  <button type="button" name="eliminar" (click)="delete(blog)" 
+                  class="btn btn-danger btn-sm">Eliminar</button>
+                </td>
+            </tr>
+       </tbody>
+      </table>
+    </div>
+  </div>

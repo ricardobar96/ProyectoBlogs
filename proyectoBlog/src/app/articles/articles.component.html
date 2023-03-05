@@ -1,0 +1,50 @@
+<div class="card border-primary mb-3">
+    <div class="card-header">Articles</div>
+    <div class="card-body text-primary">
+      <h5 class="card-title">Listado de articulos</h5>
+      
+      <div class="my-2 text-left">
+        <button class="btn btn-rounded btn-primary" type="button" [routerLink]="['/articles/form']">Crear articulo</button>
+      </div>
+
+      <div *ngIf="articles?.length==0" class="alert alert-info">
+        No hay registros en la base de datos
+      </div>
+
+      <table class="table table-bordered table-striped" *ngIf="articles?.length">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Title</th>
+                <th>Summary</th>
+                <th>Content</th>
+                <th>Blog</th>
+                <th>
+                  Editar
+                </th>
+                <th *ngIf="role!='USER'">
+                  Eliminar
+                </th>
+            </tr>
+        </thead>
+       <tbody>
+            <tr *ngFor="let article of articles">
+                <td>{{article.id}}</td>
+                <td>{{article.title | uppercase}}</td>
+                <td>{{article.summary }}</td>
+                <td>{{article.content }}</td>
+                <td>{{article.blog.title }}</td>
+                <td>
+                  <button type="button" name="editar" [routerLink]="['/articles/form', article.id]" 
+                  class="btn btn-primary btn-sm">Editar</button>
+                </td>
+
+                <td *ngIf="role!='USER'">
+                  <button type="button" name="eliminar" (click)="delete(article)" 
+                  class="btn btn-danger btn-sm">Eliminar</button>
+                </td>
+            </tr>
+       </tbody>
+      </table>
+    </div>
+  </div>

@@ -1,0 +1,47 @@
+<ul class="alert alert-danger" *ngIf="errores?.length">
+    <li *ngFor="let err of errores">
+        {{ err }}
+    </li>
+</ul>
+<div class="card bg-dark text-white">
+    <div class="card-header">{{ titulo }}</div>
+    <div class="card-body">
+        <form #blogForm="ngForm">
+            <div class="form-group row">
+                <label for="title" class="col-form-label col-sm-2">Title</label>
+                <div class="col-sm-6">
+                    <input type="text" class="form-control" [(ngModel)]="blog.title" name="title" #title="ngModel" required minlength='3'>
+                    <div class="alert alert-danger" *ngIf="title.invalid && (title.dirty || title.touched)">
+                        <div *ngIf="title.errors?.['required']">
+                            Title es requerido
+                        </div>
+                        <div *ngIf="title.errors?.['minlength']">
+                            Title debe tener minimo 3 caracteres
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!--Select para poder desplegar los usuarios existentes desde el blog al crear/editar-->
+            <div class="form-group row">
+                <label for="user_id" class="col-form-label col-sm-2">User</label>
+                <div class="col-sm-6">
+                    <select class="form-control" [(ngModel)]="blog.user" name="user">
+                        <option [ngValue]="user" *ngFor="let user of users">{{user.nombre}}</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <div class="col-sm-6">
+                    <button class="btn btn-primary" role="button" (click)="create()" *ngIf="!blog.id else elseBlock" [disabled]="!blogForm.form.valid">Crear</button>
+
+                    <ng-template #elseBlock>
+                        <button class="btn btn-primary" role="button" (click)="update()" [disabled]="!blogForm.form.valid">Editar</button> 
+                    </ng-template>
+                </div>
+            </div>
+
+        </form>
+    </div>
+</div>
